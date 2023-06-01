@@ -8,6 +8,8 @@ packages = [{include = "proper_noun_replacer"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+ginza = "^5.1.2"
+ja-ginza = "^5.1.2"
 
 
 [build-system]
